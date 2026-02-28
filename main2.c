@@ -1,7 +1,7 @@
 /**
  * @file mimix/src/main.c
  * @version 5.0.4
- * @license MIT
+ * @license GNU 3
  *
  * @title MIMIX CAD Face - Neural Dimensional System
  * @description C90 compliant - Fixed compilation errors
