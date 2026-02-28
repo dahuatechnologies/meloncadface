@@ -1,7 +1,7 @@
 /**
  * @file mimix/src/main.c
  * @version 4.0.7
- * @license MIT
+ * @license GNU 3
  *
  * @title MIMIX CAD Face - Neural Dimensional System
  * @description Final fix for memory management - no more crashes
