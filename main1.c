@@ -1,7 +1,8 @@
 /**
  * @file mimix/src/main.c
  * @version 6.0.0
- * @license MIT
+ * @license GNU 3
+ * @author Evolutia Technologies
  *
  * @title MIMIX CAD Face - Neural Dimensional System
  * @description Complete OpenGL Render, OpenAL Sound, and Keyboard Callback Control
